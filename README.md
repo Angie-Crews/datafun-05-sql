@@ -86,7 +86,8 @@ py myfile.py
 ```
 
 ### 09 CC5.2 Plan the Project / Gather Data
-1. Create a folder for data
-2. Add data of authors and books csv files
-3. git add-commit-push to GitHub
+1. Python: Select Interpretor > Create virtual environment > venv > use existing (be sure to check to make sure it is going into the correct repo folder)
+2. Create a folder for data
+3. Add data of authors and books csv files
+4. git add-commit-push to GitHub
 
