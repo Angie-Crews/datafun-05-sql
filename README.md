@@ -84,3 +84,9 @@ Run the following commands from the project root directory. The commands work in
 .\.venv\Scripts\activate
 py myfile.py
 ```
+
+### 09 CC5.2 Plan the Project / Gather Data
+1. Create a folder for data
+2. Add data of authors and books csv files
+3. git add-commit-push to GitHub
+
